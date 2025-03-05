@@ -7,7 +7,7 @@
 
 - 🌱 Estou Atualmente Aprendendo **Python**
 
-- 😋 Fiz um Site de Entrega de Comida [Efood](https://efood-six-smoky.vercel.app/)
+
 
 
 <p align="left">

@@ -9,7 +9,7 @@
 
 - 😋 Fiz um Site de Entrega de Comida [Efood](https://efood-six-smoky.vercel.app/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

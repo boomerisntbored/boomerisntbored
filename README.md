@@ -1,15 +1,6 @@
 <h1 align="center">Olá 👋, Meu nome é Daniel</h1>
 <h3 align="center">Desenvolvedor FullStack Python</h3>
 
-- 🔭 Meu Portfólio [Beach Party](https://beach-party-one.vercel.app/)
-                    [Efood](https://efood-six-smoky.vercel.app/)
-                    [Black Box](https://black-box-gray.vercel.app/)
-
-- 🌱 Estou Atualmente Aprendendo **Python**
-
-
-
-
 <p align="left">
 </p>
 
